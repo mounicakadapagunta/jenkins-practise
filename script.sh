@@ -1,5 +1,5 @@
 echo 'Welcome to AWS SQUAD' 
-echo ' DESCLAMER: TOXIC PEOPLE'
+echo ' DESCLAIMER: TOXIC PEOPLE'
 echo ' hi IRFAN'
 echo ' hi YASWANTH'
 echo ' hi MOUNICA'
